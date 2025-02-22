@@ -1,7 +1,3 @@
-Here's a sample README for a JavaScript learning repository that you can post on GitHub:
-
----
-
 # JavaScript Learning Repository
 
 Welcome to my **JavaScript Learning Repository**! This repository is dedicated to helping me master JavaScript. It contains resources, exercises, projects, and examples to help you build a solid understanding of JavaScript.
